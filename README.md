@@ -17,6 +17,12 @@
 <img width="666" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/f96c4540-39d3-416a-bc9c-7b56647383d0">
 
 
+## Update user by specific id
+
+<img width="660" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/b977df42-7553-4103-8cc9-bc0c7fb1f5cb">
+
+
+
 
 
 
