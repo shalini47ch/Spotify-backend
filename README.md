@@ -22,6 +22,18 @@
 <img width="660" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/b977df42-7553-4103-8cc9-bc0c7fb1f5cb">
 
 
+## Get all the users
+
+<img width="655" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/7699beca-74b5-47af-a792-904806970a7a">
+
+
+## Updated Data in mongodb atlas
+
+<img width="560" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/050a9ecb-acd1-4e3b-8a31-153efde426c9">
+
+
+
+
 
 
 
