@@ -32,6 +32,23 @@
 <img width="560" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/050a9ecb-acd1-4e3b-8a31-153efde426c9">
 
 
+## User with specific id deleted 
+
+<img width="665" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/ba8fb725-7ee0-4dcd-8d18-9d94bb149c2a">
+
+## Users after specific id deletion
+<img width="653" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/7c2aaa67-67f1-4df2-847a-8c9b4abca3f9">
+
+
+## Updated in mongo db as well
+
+<img width="566" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/75933e9e-66b3-4479-a18e-304167e02b6d">
+
+
+
+
+
+
 
 
 
