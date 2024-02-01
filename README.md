@@ -1,9 +1,22 @@
 ## User Routes testing using postman working fine
 
-<img width="670" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/5dbac5fa-d5f3-4f91-8d60-a0d43c8835ea">
+<img width="662" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/25092e77-2565-4cf7-b888-c81a59b98715">
+
+
+
 
 
 ## Auth routes testing using postman working fine 
 
-<img width="656" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/2b4fbcb3-b0c8-4f2c-b998-f1e7756458ed">
+<img width="661" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/f4f9b30a-89e6-4534-b9da-ec6df8f4dcc0">
+
+
+
+## Get user by specific id 
+
+<img width="666" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/f96c4540-39d3-416a-bc9c-7b56647383d0">
+
+
+
+
 
