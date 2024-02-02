@@ -69,6 +69,11 @@
 
 <img width="669" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/6fdf15c4-8ad6-46e5-a016-3bf381135ebf">
 
+## List of all the liked songs 
+
+<img width="663" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/07185420-f7e4-4427-8f63-b7d6ed59d17d">
+
+
 
 
 
