@@ -61,6 +61,12 @@
 <img width="677" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/5c76c78f-837b-4346-8ba3-6f9f65dc54bf">
 
 
+## Updated in mongodb as well
+
+<img width="793" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/0b60d7a6-20f9-4162-aecf-781f3ce24bbc">
+
+
+
 
 
 
