@@ -51,6 +51,12 @@
 <img width="635" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/09246242-de32-4c99-a84c-032081b05286">
 
 
+## Get all songs working fine 
+
+<img width="663" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/ae64cab3-0b2d-4c56-9cb3-75d62b359717">
+
+
+
 
 
 
