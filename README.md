@@ -56,6 +56,12 @@
 <img width="663" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/ae64cab3-0b2d-4c56-9cb3-75d62b359717">
 
 
+## Song with specific id updated 
+
+<img width="677" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/5c76c78f-837b-4346-8ba3-6f9f65dc54bf">
+
+
+
 
 
 
