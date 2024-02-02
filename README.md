@@ -46,6 +46,13 @@
 
 
 
+## Creation of Song working fine 
+
+<img width="635" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/09246242-de32-4c99-a84c-032081b05286">
+
+
+
+
 
 
 
