@@ -73,6 +73,11 @@
 
 <img width="663" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/07185420-f7e4-4427-8f63-b7d6ed59d17d">
 
+## Playlist created 
+
+<img width="662" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/6bdc4c7f-1995-4545-b2a2-624e7d1b52c7">
+
+
 
 
 
