@@ -91,6 +91,18 @@
 
 <img width="569" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/f23df24c-7a61-4c98-8a60-6e6779b3450b">
 
+## Song added successfully to the playlist
+
+
+<img width="670" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/2c3e4206-3e47-4156-bf69-6ae208a3daf9">
+
+## Successfully added to mongodb as well
+
+
+<img width="806" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/4bcacdc6-67a3-461b-b992-92c2f80e2342">
+
+
+
 
 
 
