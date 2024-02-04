@@ -12,7 +12,7 @@ const PlayListSchema = new mongoose.Schema({
   user: { type: ObjectId, ref: "user", required: true },
   desc: { type: String },
   //the type of songs will be of the form of the array
-  song: { type: Array, default: [] },
+  songs: { type: Array, default: [] },
   img: { type: String },
 });
 
