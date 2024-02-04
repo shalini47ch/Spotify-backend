@@ -101,6 +101,12 @@
 
 <img width="806" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/4bcacdc6-67a3-461b-b992-92c2f80e2342">
 
+## Get playlist of the specific user
+
+
+<img width="671" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/a1228497-7912-4476-9160-6c629ce25520">
+
+
 
 
 
