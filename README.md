@@ -117,6 +117,18 @@
 <img width="671" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/87dd6c5e-eca6-478f-bdaa-ff6b392129f6">
 
 
+## Delete the playlist with a specific id 
+
+<img width="671" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/9bfd73c7-b2f9-426a-b4c4-f0d490321434">
+
+
+## Deleted successfully from mongodb as well 
+
+<img width="584" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/44a025af-ad4a-4d55-b3be-0f5955801d9c">
+
+
+
+
 
 
 
