@@ -106,6 +106,12 @@
 
 <img width="671" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/a1228497-7912-4476-9160-6c629ce25520">
 
+## Get playlist by specific id and song is added as well
+
+
+<img width="670" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/29a9b94e-68f6-4fcd-9269-4aa4e61674d8">
+
+
 
 
 
