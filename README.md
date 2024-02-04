@@ -78,6 +78,11 @@
 <img width="662" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/6bdc4c7f-1995-4545-b2a2-624e7d1b52c7">
 
 
+## Created playlist added in mongodb as well
+<img width="804" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/1f47a45d-5ccd-4673-81cf-18ffda5850b2">
+
+
+
 
 
 
