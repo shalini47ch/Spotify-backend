@@ -82,6 +82,18 @@
 <img width="804" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/1f47a45d-5ccd-4673-81cf-18ffda5850b2">
 
 
+## Playlist with specific id updated 
+
+<img width="637" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/896faec0-ce1d-4165-a043-534fff118e2e">
+
+## Updated in mongodb successfully
+
+
+<img width="569" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/f23df24c-7a61-4c98-8a60-6e6779b3450b">
+
+
+
+
 
 
 
