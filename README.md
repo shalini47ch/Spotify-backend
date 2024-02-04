@@ -111,6 +111,12 @@
 
 <img width="670" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/29a9b94e-68f6-4fcd-9269-4aa4e61674d8">
 
+## Get all the playlists 
+
+
+<img width="671" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/87dd6c5e-eca6-478f-bdaa-ff6b392129f6">
+
+
 
 
 
