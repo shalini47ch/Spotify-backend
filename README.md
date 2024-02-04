@@ -127,6 +127,12 @@
 <img width="584" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/44a025af-ad4a-4d55-b3be-0f5955801d9c">
 
 
+## Search query 
+
+<img width="634" alt="image" src="https://github.com/shalini47ch/Spotify-backend/assets/60210475/fc7203ed-589e-4cde-bf47-b9eaf11128f8">
+
+
+
 
 
 
